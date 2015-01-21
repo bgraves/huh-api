@@ -1,0 +1,14 @@
+{
+  "name": "huh-api",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "jbg",
+  "dependencies": {
+    "express": "",
+    "body-parser": "",
+    "node-uuid": "",
+    "multer": "",
+    "mongodb": ""
+  }
+}
